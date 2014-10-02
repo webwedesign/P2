@@ -1,5 +1,9 @@
-# PROJET 1
-## Squelette pour développement PHP v1
+# PROJET 2
+##INSTALL
+En ligne de commande Linux:
+mysql -uroot -p < src/data/project.sql
+
+
 
 ### Technologie employées
 - PHP
