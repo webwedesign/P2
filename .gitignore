@@ -4,3 +4,4 @@
 /.buildpath
 /composer.lock
 /vendor/
+/project.sql
